@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan2110/LeetCode/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/Bhuvan2110/LeetCode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Bhuvan2110/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
