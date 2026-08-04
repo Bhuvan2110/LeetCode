@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhuvan2110/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Bhuvan2110/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhuvan2110/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Bhuvan2110/LeetCode/tree/master/0867-transpose-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
