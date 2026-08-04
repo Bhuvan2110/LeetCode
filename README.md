@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan2110/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Bhuvan2110/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Bhuvan2110/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Bhuvan2110/LeetCode/tree/master/0867-transpose-matrix) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhuvan2110/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Bhuvan2110/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0344-reverse-string) |
 ## Matrix
 |  |
