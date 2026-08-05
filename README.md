@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Bhuvan2110/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhuvan2110/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Queue
 |  |
