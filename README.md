@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Bhuvan2110/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Bhuvan2110/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhuvan2110/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0056-merge-intervals](https://github.com/Bhuvan2110/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhuvan2110/LeetCode/tree/master/0283-move-zeroes) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhuvan2110/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Bhuvan2110/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
