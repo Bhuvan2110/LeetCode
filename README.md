@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhuvan2110/LeetCode/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Bhuvan2110/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Bhuvan2110/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Bhuvan2110/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhuvan2110/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Bhuvan2110/LeetCode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Bhuvan2110/LeetCode/tree/master/0867-transpose-matrix) |
@@ -36,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
@@ -47,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Bhuvan2110/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -74,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvan2110/LeetCode/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
