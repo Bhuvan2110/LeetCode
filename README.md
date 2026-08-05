@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Bhuvan2110/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Bhuvan2110/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Bhuvan2110/LeetCode/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhuvan2110/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Bhuvan2110/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
