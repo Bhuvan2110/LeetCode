@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvan2110/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/Bhuvan2110/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhuvan2110/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhuvan2110/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvan2110/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvan2110/LeetCode/tree/master/0011-container-with-most-water) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvan2110/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Bhuvan2110/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvan2110/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvan2110/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
