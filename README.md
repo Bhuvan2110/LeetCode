@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Bhuvan2110/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Bhuvan2110/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/Bhuvan2110/LeetCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Bhuvan2110/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Bhuvan2110/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Bhuvan2110/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Bhuvan2110/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Bhuvan2110/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Bhuvan2110/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0509-fibonacci-number](https://github.com/Bhuvan2110/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhuvan2110/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhuvan2110/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Bhuvan2110/LeetCode/tree/main/0112-path-sum/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Bhuvan2110/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
