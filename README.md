@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan2110/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvan2110/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Bhuvan2110/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Bhuvan2110/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan2110/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,10 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Bhuvan2110/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0392-is-subsequence](https://github.com/Bhuvan2110/LeetCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Bhuvan2110/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan2110/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Bhuvan2110/LeetCode/tree/master/0011-container-with-most-water) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Bhuvan2110/LeetCode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhuvan2110/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
