@@ -1,14 +1,16 @@
 class Solution:
-    def fib(self, n: int) -> int:
+    def f(self, n, mem) -> int:
         if n <= 1:
             return n
 
-        a = 0
-        b = 1
+        if n in mem:
+            return mem[n]
 
-        for i in range(2, n + 1):
-            c = a + b
-            a = b
-            b = c
+        result = self.f(n - 1, mem) + self.f(n - 2, mem)
+        mem[n] = result
 
-        return b
+        return result
+
+    def fib(self, n: int) -> int:
+        mem = {}
+        return self.f(n, mem)
