@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhuvan2110/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhuvan2110/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/Bhuvan2110/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [1192-critical-connections-in-a-network](https://github.com/Bhuvan2110/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan2110/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -246,5 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Bhuvan2110/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Bhuvan2110/LeetCode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Bhuvan2110/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Bhuvan2110/LeetCode/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
